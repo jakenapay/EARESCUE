@@ -1,5 +1,6 @@
 # EARESCUE
 ## Description
+![Thumbnail](https://github.com/jakenapay/EARESCUE/assets/64911590/c5a28b35-a25f-4700-9176-b7146acbbae4)
 
 <details>
  <summary>Course</summary>
