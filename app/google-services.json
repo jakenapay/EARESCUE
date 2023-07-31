@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "420965837527",
+    "firebase_url": "https://emergencyhotline-cc200-default-rtdb.firebaseio.com",
+    "project_id": "emergencyhotline-cc200",
+    "storage_bucket": "emergencyhotline-cc200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420965837527:android:d85fb8ea38fe116d9e5e92",
+        "android_client_info": {
+          "package_name": "com.example.emergencyassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZs-_PzndEqXiR62-AoH4dkUlSYTGuEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420965837527:android:b9841e29191fa3659e5e92",
+        "android_client_info": {
+          "package_name": "com.example.it3b_partialapps_grp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZs-_PzndEqXiR62-AoH4dkUlSYTGuEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420965837527:android:5b9c02f1df3121d59e5e92",
+        "android_client_info": {
+          "package_name": "com.example.projectmobaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZs-_PzndEqXiR62-AoH4dkUlSYTGuEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420965837527-90qmo35344punq7o2ms9is6tscr32s0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
