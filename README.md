@@ -3,8 +3,10 @@
 ![Thumbnail](https://github.com/jakenapay/EARESCUE/assets/64911590/c5a28b35-a25f-4700-9176-b7146acbbae4)
 
 <details>
- <summary>Course</summary>
- <p>&emsp;Bachelor of Science in Information Technology</p>
+ <summary>Overview</summary>
+ <p>&emsp;An app that connects user to emergergency service quickly. It can include features like one touch emergency dialing,  and the ability to store important medical information like allergies, blood type, and emergency contact.</p>
+ ![Instagram story - 1](https://github.com/jakenapay/EARESCUE/assets/64911590/6d00c180-278c-4a81-b8d6-787e0237ab35)
+
 </details>
 <details>
   <summary>Subject</summary>
