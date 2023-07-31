@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:paddingTop="?attr/actionBarSize"
+    tools:context=".AdminDeleteContact">
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg"
+        android:gravity="center|top"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="55dp">
+
+        <TextView
+            android:id="@+id/textDeleteContact"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:layout_marginTop="25dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:gravity="center"
+            android:text="Delete Contact"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="191dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/square_buttons"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editDeletetContact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:backgroundTint="@color/red"
+                android:ems="10"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:hint="Contact"
+                android:inputType="text"
+                android:textColorHint="@color/gray" />
+
+            <EditText
+                android:id="@+id/typeofcontact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:backgroundTint="@color/red"
+                android:ems="10"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:hint="Type of Contact"
+                android:inputType="text"
+                android:textColorHint="@color/gray" />
+
+            <Button
+                android:id="@+id/bttnDelete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|right"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/red"
+                android:drawableStart="@drawable/ic_delete"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Delete"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
