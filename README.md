@@ -28,13 +28,13 @@ phone call</p>
 example is “Quezon City” where the showed list is equal to the input(Location,
 Facility Name, and etc.) of the user </p>
 
-![image](https://github.com/jakenapay/EARESCUE/assets/64911590/b9dc4866-a243-46a2-a802-ce8519cb344c)
+![Search](https://github.com/jakenapay/EARESCUE/assets/64911590/7ddbc1e5-4ea6-4ff2-b1f1-24b4243021db)
+
 
 ### 3. Update Information 
 <p>The information that will be posted on the app can be update.Admin Dashboard is accessible with account authentication. </p>
 
-![image](https://github.com/jakenapay/EARESCUE/assets/64911590/af0ce20c-6cc5-43c5-bfcf-04eb3098d1ef)
-
+![Update](https://github.com/jakenapay/EARESCUE/assets/64911590/22465a44-3beb-4f7a-ab5a-d1cd0b36acb4)
 
 
 ## Demo Video
