@@ -1,5 +1,4 @@
-![Call to Action (1)](https://github.com/jakenapay/EARESCUE/assets/64911590/342dafee-695d-407a-82a6-6568cde5765d)# EARESCUE
-## Description
+
 ![Thumbnail](https://github.com/jakenapay/EARESCUE/assets/64911590/c5a28b35-a25f-4700-9176-b7146acbbae4)
 
 ## Overview
