@@ -20,8 +20,9 @@
 application to the phone then the contact number of the data is inputted in the
 phone call</p>
 
- ![image](https://github.com/jakenapay/EARESCUE/assets/64911590/5c971965-81cf-49ef-bf3f-ce9d0fbeef4a) 
- 
+
+ ![Call to Action](https://github.com/jakenapay/EARESCUE/assets/64911590/a2000d0d-b7c9-40c5-8aec-d7c9533fd704)
+
 
 ### 2. Search for Contact 
 <p>show the list or data depend on the input of a user
