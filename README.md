@@ -1,4 +1,4 @@
-# EARESCUE
+![Call to Action (1)](https://github.com/jakenapay/EARESCUE/assets/64911590/342dafee-695d-407a-82a6-6568cde5765d)# EARESCUE
 ## Description
 ![Thumbnail](https://github.com/jakenapay/EARESCUE/assets/64911590/c5a28b35-a25f-4700-9176-b7146acbbae4)
 
@@ -20,8 +20,7 @@
 application to the phone then the contact number of the data is inputted in the
 phone call</p>
 
-
- ![Call to Action](https://github.com/jakenapay/EARESCUE/assets/64911590/a2000d0d-b7c9-40c5-8aec-d7c9533fd704)
+![Call to Action (1)](https://github.com/jakenapay/EARESCUE/assets/64911590/51160c6f-acd7-45d9-9cce-3fe8d73fb580)
 
 
 ### 2. Search for Contact 
