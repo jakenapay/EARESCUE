@@ -5,7 +5,8 @@
 <details>
  <summary>Overview</summary>
  <p>&emsp;An app that connects user to emergergency service quickly. It can include features like one touch emergency dialing,  and the ability to store important medical information like allergies, blood type, and emergency contact.</p>
- ![Instagram story - 1](https://github.com/jakenapay/EARESCUE/assets/64911590/6d00c180-278c-4a81-b8d6-787e0237ab35)
+ ![Instagram story - 1](https://github.com/jakenapay/EARESCUE/assets/64911590/d3b303cc-f5a4-4438-afc8-0ff44a1dd6bb)
+
 
 </details>
 <details>
